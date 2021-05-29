@@ -1,1 +1,1 @@
-# TestingIBM
+# IBM Coursera
